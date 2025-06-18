@@ -11,6 +11,11 @@ Dentro da aplicação, há diversos tipos de sons organizados em seções, como:
 
 Cada som, ao ser clicado, ativa uma leve animação de deslize, fazendo com que o player apareça suavemente abaixo do botão. Isso proporciona uma experiência de uso simples, fluida e agradável.
 
+## 🎯 Funcionalidade
+- 💬 Apresenta uma variedade de sons naturais.
+- 💬 Permite ao usuário escolher um seção com sons que o faça se sentir confortável em ouvir.
+- 💬 Um player com animação simples para uma praticidade em uso do APP
+
 ## 🎨 Design
 
 Optei por um **design simples**, com **cores suaves** para tornar a navegação mais confortável, especialmente durante o uso noturno ou em ambientes escuros.
