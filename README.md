@@ -15,13 +15,13 @@ Cada som, ao ser clicado, ativa uma leve animação de deslize, fazendo com que 
 
 Optei por um **design simples**, com **cores suaves** para tornar a navegação mais confortável, especialmente durante o uso noturno ou em ambientes escuros.
 
--Telas de Baixa fidelidade.
+# Telas de Baixa fidelidade.
 ![image](https://github.com/user-attachments/assets/8ffa948e-1b7d-4a5e-8a09-2a794eceec6e)
 
--Telas de Alta fidelidade.
+# Telas de Alta fidelidade.
 ![image](https://github.com/user-attachments/assets/f5b8c66b-3cd8-471b-a9e0-b011fcfd563f)
 
--Paleta de Cores.
+# Paleta de Cores.
 ![image](https://github.com/user-attachments/assets/b882177e-adbd-4655-8169-1a2de10da488)
 
 ## 🧠 Tecnologias Utilizadas
