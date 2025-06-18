@@ -1,4 +1,4 @@
-# Calmina 🌿
+# Calmina 🌼
 
 Calmina é um aplicativo desenvolvido para cuidar da saúde mental, ajudando a aliviar o estresse e a ansiedade do dia a dia. Através de sons terapêuticos da natureza, ele promove momentos de calma, bem-estar e equilíbrio para mente, corpo e alma.
 
