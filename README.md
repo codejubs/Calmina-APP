@@ -31,5 +31,6 @@ Optei por um **design simples**, com **cores suaves** para tornar a navegação 
 
 Na codificação, mantive a organização e limpeza do código como prioridade:
 - Criei **arquivos separados para cada tela**
+  
 ![image](https://github.com/user-attachments/assets/33ba7ced-7f2c-4ec8-b652-d3331076eb84)
 - Integrando tudo na `MainActivity` para construção da navegação e organização das telas e seus componentes.
