@@ -40,3 +40,14 @@ Na codificação, mantive a organização e limpeza do código como prioridade:
   
 ![image](https://github.com/user-attachments/assets/33ba7ced-7f2c-4ec8-b652-d3331076eb84)
 - Integrando tudo na `MainActivity` para construção da navegação e organização das telas e seus componentes.
+
+## 🚀 Como Rodar o Projeto
+
+1. Clone o repositório:
+   ```bash
+  https://github.com/codejubs/Calmina-APP.git
+   ``
+2. Abra o projeto no Android Studio.
+3. Execute em um emulador ou dispositivo Android.
+
+## Agradeço pela atenção! <3
