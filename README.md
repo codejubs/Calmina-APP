@@ -3,11 +3,11 @@
 Calmina é um aplicativo desenvolvido para cuidar da saúde mental, ajudando a aliviar o estresse e a ansiedade do dia a dia. Através de sons terapêuticos da natureza, ele promove momentos de calma, bem-estar e equilíbrio para mente, corpo e alma.
 
 Dentro da aplicação, há diversos tipos de sons organizados em seções, como:
-- Seção 1 (Chuva) com sons de: "Tempestade", "Chuva" e "Chuva Fraca";
-- Seção 2 (Natureza) com sons de: "Ventania", "Cachoeira" e "Noite";
-- Seção 3 (Ruído) com sons de: "Ventilador", "Ruído Branco" e "Ruído Marrom";
-- Seção 4 (Oceano) com sons de: "Ondas", "Praia" e "Oceano";
-- Seção 5 (Lo-fi) com sons de: "Lo-fi", "Chill" e "Lo-Fi".
+- Seção 1 (Chuva) 🌧️ com sons de: "Tempestade", "Chuva" e "Chuva Fraca";
+- Seção 2 (Natureza) 🌳 com sons de: "Ventania", "Cachoeira" e "Noite";
+- Seção 3 (Ruído) 📻 com sons de: "Ventilador", "Ruído Branco" e "Ruído Marrom";
+- Seção 4 (Oceano) 🌊 com sons de: "Ondas", "Praia" e "Oceano";
+- Seção 5 (Lo-fi) 🎧 com sons de: "Lo-fi", "Chill" e "Lo-Fi".
 
 Cada som, ao ser clicado, ativa uma leve animação de deslize, fazendo com que o player apareça suavemente abaixo do botão. Isso proporciona uma experiência de uso simples, fluida e agradável.
 
