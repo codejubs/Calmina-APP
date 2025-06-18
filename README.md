@@ -33,6 +33,7 @@ Optei por um **design simples**, com **cores suaves** para tornar a navegação 
 
 - **Android Studio** para codar e passar as telas criadas no figma.
 - **Kotlin** como linguagem de programação principal (e única)
+- **Figma** Prototipagem de alta fidelidade da interface
 
 Na codificação, mantive a organização e limpeza do código como prioridade:
 - Criei **arquivos separados para cada tela**.
