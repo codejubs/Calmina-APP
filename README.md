@@ -44,7 +44,7 @@ Na codificação, mantive a organização e limpeza do código como prioridade:
 ## 🚀 Como Rodar o Projeto
 
 1. Clone o repositório:
-   ```bash
+   ``
   https://github.com/codejubs/Calmina-APP.git
    ``
 2. Abra o projeto no Android Studio.
